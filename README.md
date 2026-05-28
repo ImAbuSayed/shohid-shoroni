@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shohid-shoroni/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Shohid Shoroni](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shohid-shoroni/) |
+| **Get License** | [Get License For Shohid Shoroni](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shohid-shoroni/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> চোখের গভীরে আজ নেশা নেশা ঘোর
+> কাছে এসো ভেঙে দাও অদেখা এ দোর
+> বুকের ভেতর জ্বলে অজানা এক আগুন
+> তোমায় ভেবেই কাটে আমার এই ফাগুন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
