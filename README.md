@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shohid-shoroni/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Shohid Shoroni](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shohid-shoroni/) |
+| **Get License** | [Get a Licensing Quote for Shohid Shoroni](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shohid-shoroni/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fe0afa078fb68c6a80a730e4da8026d55cbf74865efd656c1e6d1c6d3cc140ce` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

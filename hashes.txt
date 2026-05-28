@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shohid Shoroni
+
+This log tracks the cryptographic history and versioning for the song **Shohid Shoroni** (shohid-shoroni).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T20:04:39.419560 | `v1` | `fe0afa078fb68c6a80a730e4da8026d55cbf74865efd656c1e6d1c6d3cc140ce` | `160532ec3621140916cafee45dec74df4872e61ce91a54fa5fe85c5831da93fc` | `2026-05-28_shohid-shoroni-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
